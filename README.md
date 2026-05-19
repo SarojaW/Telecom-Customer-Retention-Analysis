@@ -75,3 +75,8 @@ Introduce loyalty benefits for long-term customers
 Improve customer support for fiber optic users
 Offer discounts for yearly contracts
 Create targeted retention campaigns for high-risk customers
+
+📌 Future Improvements
+Build Machine Learning models for churn prediction
+Deploy an interactive dashboard using Power BI or Streamlit
+Perform feature engineering for improved predictions
