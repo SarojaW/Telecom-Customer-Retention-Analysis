@@ -44,39 +44,39 @@ Billing details
 Churn status
 
 
-📊 Key Analysis Performed
+📊 Key Analysis Performed :
 🔹 Data Cleaning
-Processed missing and null values
-Converted columns into appropriate data types
-Checked and corrected inconsistent data entries
-Prepared dataset for analysis
+Processed missing and null values.
+Converted columns into appropriate data types.
+Checked and corrected inconsistent data entries.
+Prepared dataset for analysis.
 🔹 Exploratory Data Analysis (EDA)
-Analyzed overall customer churn distribution
-Examined customer demographics and behavior patterns
-Compared telecom services used by churned vs retained customers
-Studied relationship between tenure, monthly charges, and churn
-Evaluated impact of contract types on customer retention
+Analyzed overall customer churn distribution.
+Examined customer demographics and behavior patterns.
+Compared telecom services used by churned vs retained customers.
+Studied relationship between tenure, monthly charges, and churn.
+Evaluated impact of contract types on customer retention.
 🔹 Data Visualizations
-Count plots for churn comparison
-Histograms for numerical feature distribution
-Box plots for charge and tenure analysis
-Correlation heatmaps for feature relationships
-Comparative charts for service usage patterns
+Count plots for churn comparison.
+Histograms for numerical feature distribution.
+Box plots for charge and tenure analysis.
+Correlation heatmaps for feature relationships.
+Comparative charts for service usage patterns.
 
-📈 Key Insights
+📈 Key Insights :
 Customers with month-to-month contracts showed higher churn rates.
 Users with fiber optic internet services had comparatively higher churn.
 Customers with higher monthly charges were more likely to leave.
 Long-term customers demonstrated lower churn probability.
 Electronic check payment users had higher churn behavior.
 
-💡 Business Recommendations
+💡 Business Recommendations :
 Introduce loyalty benefits for long-term customers
 Improve customer support for fiber optic users
 Offer discounts for yearly contracts
 Create targeted retention campaigns for high-risk customers
 
-📌 Future Improvements
+📌 Future Improvements :
 Build Machine Learning models for churn prediction
 Deploy an interactive dashboard using Power BI or Streamlit
 Perform feature engineering for improved predictions
